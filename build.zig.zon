@@ -1,5 +1,6 @@
 .{
-    .name = "zgpu",
+    .name = .zgpu,
+    .fingerprint = 0x670ebe0418101988,
     .version = "0.12.0-dev",
     .paths = .{
         "build.zig",
